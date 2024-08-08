@@ -1,4 +1,4 @@
-# SuperStore-Sales-DV-Tableau
+# SuperStore_Sales-DV - Tableau
 
 **Objective:**
 
